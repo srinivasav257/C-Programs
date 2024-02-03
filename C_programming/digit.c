@@ -8,6 +8,8 @@ int main()
     {
         n=n/10;
         ++count;
+
+// hi
     }
     printf("no. of digits : %d",count);
     return 0;
